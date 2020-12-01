@@ -1,4 +1,4 @@
-### Hi! I am Artem Bulgakov.
+### Hi! 👋 I am Artem Bulgakov.
 
 And I am from Russia.
 
