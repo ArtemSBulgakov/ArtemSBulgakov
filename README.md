@@ -1,6 +1,4 @@
-### Hi! 👋 I am Artem Bulgakov.
-
-And I am from Russia.
+<h1 align="center">Hi, I'm Artem! 👋</h1>
 
 <p align="center">
   <picture>
