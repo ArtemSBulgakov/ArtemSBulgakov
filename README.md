@@ -10,8 +10,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArtemSBulgakov&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=vue-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ArtemSBulgakov&include_all_commits=true&count_private=true&show_icons=true&hide=stars">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ArtemSBulgakov&include_all_commits=true&count_private=true&show_icons=true&hide=stars">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArtemSBulgakov&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ArtemSBulgakov&include_all_commits=true&count_private=true&show_icons=true">
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ArtemSBulgakov&include_all_commits=true&count_private=true&show_icons=true">
   </picture>
 </p>
